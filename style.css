@@ -644,5 +644,10 @@ footer.main-footer .wrapper-footer .text-rules p {
   }
   footer.main-footer .wrapper-footer .text-rules {
     margin-bottom: 20px;
+    width: 100%;
+  }
+  footer.main-footer .wrapper-footer .text-rules p {
+    font-size: 13px;
+    width: 100%;
   }
 }/*# sourceMappingURL=style.css.map */

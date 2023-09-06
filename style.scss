@@ -713,6 +713,11 @@ footer.main-footer {
       }
       .text-rules {
         margin-bottom: 20px;
+        width: 100%;
+        p {
+          font-size: 13px;
+          width: 100%;
+        }
       }
     }
   }
